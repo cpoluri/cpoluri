@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cpoluri
+- 👋 Hi, I’m @chaitanya Poluri
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning Introduction to deep Learning
 - 💞️ I’m looking to collaborate on pytorch project
